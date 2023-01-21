@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The Khalti Authors. All rights reserved.
+// Copyright (c) 2022 The Ravikant Authors. All rights reserved.
 
 // Always Use camelCase for dimen resources, prefixed with 'd_'.
 
